@@ -1,2 +1,1 @@
-# E-Commerce-Analysis-Project
-python project
+# ECommerce-Analysis-Project
